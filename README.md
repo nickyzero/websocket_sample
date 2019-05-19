@@ -2,7 +2,7 @@
 This is a sample web application for webOS. 
 You can learn about how to use websocket in web application and how to use lunaservice api for web application.
 
-This sample is not incluing websocket server. If you want to run this sample application completely, you must have or know an websocket serverenvironment.  
+This sample is not including websocket server. If you want to run this sample application completely, you must have or know an websocket serverenvironment.  
 
 # Setting CLI and environment
 You have to install CLI and set environment before packaging, installing and launching.
@@ -12,7 +12,7 @@ You have to install CLI and set environment before packaging, installing and lau
 You have to modify websocket server's URI on websocket.js before packaging your application. 
 
 # Packaging application
-You can make a package this application using CLI commend
+You can make a package this application using CLI command
 > websocket_sample$ ares-package .
 
 # Installing application
