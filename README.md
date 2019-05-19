@@ -12,7 +12,7 @@ You have to install CLI and set environment before packaging, installing and lau
 You have to modify websocket server's URI on websocket.js before packaging your application. 
 
 # Packaging application
-You can make a package this application using CLI commend
+You can make a package this application using CLI command
 > websocket_sample$ ares-package .
 
 # Installing application
