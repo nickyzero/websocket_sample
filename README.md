@@ -9,7 +9,7 @@ You have to install CLI and set environment before packaging, installing and lau
 * http://webosose.org/develop/sdk-tools/cli/overview/
 
 # Modifying application
-You have to modify websocket server's URI on websocket.js before packaging your application. 
+You have to modify websocket server's URL on websocket.js before packaging your application. 
 
 # Packaging application
 You can make a package this application using CLI command
