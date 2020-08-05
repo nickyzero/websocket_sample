@@ -22,3 +22,7 @@ You can install application package to webOS. The target is a name of device.
 # Launching application
 You can run the application remotely.
 > websocket_sample$ ares-launch -d target com.sample.websocket
+
+# Debugging application
+You can debug the application using CLI command
+> websocket_sample$ ares-inspect -d target com.sample.websocket
